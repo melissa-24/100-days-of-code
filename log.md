@@ -23,3 +23,11 @@
 **Thoughts**: Happy to have it render.  Going to start work on a help guide with tips and tricks tomorrow.
 
 **Link to Work**: https://github.com/melissa-24/newapp/commit/163bfcbc7e0bd0e44f10662c4ece453f667200cf
+
+### Day 4: May 4th, 2020
+
+**Today's Progress**: Started basic outline of Help guide.  Chose to use less instead of just plain css so I could better manage page styling.
+
+**Thoughts**: Made some good progress.  Got home page and 1 guide page set up - can copy the guide page sections for other pages.  Am pleased with it so far.
+
+**Link to Work**: https://github.com/beedev-itservices/help-guide/commit/01530857bff85284c7209dad4a111d7ae9efd9f3
