@@ -31,3 +31,11 @@
 **Thoughts**: Made some good progress.  Got home page and 1 guide page set up - can copy the guide page sections for other pages.  Am pleased with it so far.
 
 **Link to Work**: https://github.com/beedev-itservices/help-guide/commit/01530857bff85284c7209dad4a111d7ae9efd9f3
+
+### Day 5: May 5th, 2020
+
+**Today's Progress**: Not much progress today worked on trying to get the individual data cards to render
+
+**Thoughts**: Frustrated.  Can't get the individual cards to render.  It shows in the address bar but console.log doesn't show the right jsx document is rendering.  It shows it is going back to home. 
+
+**Link to Work**: https://github.com/beedev-itservices/help-guide/commit/daa8230dc806c653f3b7a40f461f77c817c4975e
