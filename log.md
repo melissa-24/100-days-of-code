@@ -39,3 +39,11 @@
 **Thoughts**: Frustrated.  Can't get the individual cards to render.  It shows in the address bar but console.log doesn't show the right jsx document is rendering.  It shows it is going back to home. 
 
 **Link to Work**: https://github.com/beedev-itservices/help-guide/commit/daa8230dc806c653f3b7a40f461f77c817c4975e
+
+### Day 6: May 6th, 2020
+
+**Today's Progress**: Lots of progress finally got it working.
+
+**Thoughts**: Got it to render so happy about that.  However each page is showing placeholders for the data that isn't that pages.  So need to find a way to use filter or hide for unused data on each page.
+
+**Link to Work**: https://github.com/beedev-itservices/help-guide/commit/87607f77f1bf88713a07952e6c6515afc4b41871
