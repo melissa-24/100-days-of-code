@@ -47,3 +47,35 @@
 **Thoughts**: Got it to render so happy about that.  However each page is showing placeholders for the data that isn't that pages.  So need to find a way to use filter or hide for unused data on each page.
 
 **Link to Work**: https://github.com/beedev-itservices/help-guide/commit/87607f77f1bf88713a07952e6c6515afc4b41871
+
+### Day 7: May 7th, 2020
+
+**Today's Progress**: Got a few styling things done today in my portfolio site
+
+**Thoughts**: Slow internet so no commit link till later.
+
+**Link to Work**: 
+
+### Day 8: May 8th, 2020
+
+**Today's Progress**: More styling work.  No link today
+
+**Thoughts**: Got some good work done on the styling and am pleased so far with how the portfolio will look
+
+**Link to Work**: 
+
+### Day 9: May 9th, 2020
+
+**Today's Progress**: Working on some JS scripting projects. Not pushing to git till 1st project is done
+
+**Thoughts**: Found another free class that does 30 JS projects in 30 days.  Had a few issues with the 1st project.
+
+**Link to Work**: 
+
+### Day 10: Mau 10th, 2020
+
+**Today's Progress**:  Finally finished the JS project.
+
+**Thoughts**: Took me a while to get it work right had to rewatch the video, but got it to work.  Even added some styling.
+
+**Link to Work**: https://github.com/melissa-24/JavaScript30/commit/bb9927d76319fac8c219c3684055d5f5dcba5566
