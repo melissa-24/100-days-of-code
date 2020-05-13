@@ -72,10 +72,26 @@
 
 **Link to Work**: 
 
-### Day 10: Mau 10th, 2020
+### Day 10: May 10th, 2020
 
 **Today's Progress**:  Finally finished the JS project.
 
 **Thoughts**: Took me a while to get it work right had to rewatch the video, but got it to work.  Even added some styling.
 
 **Link to Work**: https://github.com/melissa-24/JavaScript30/commit/bb9927d76319fac8c219c3684055d5f5dcba5566
+
+### Day 11: May 11th, 2020
+
+**Today's Progress**: Completed more styling on the help guide as well as resumed some work on the portfolio site.
+
+**Thoughts**:  Was an ok day today.  Not feeling well.
+
+**Link to Work**: No link today everything was local.
+
+### Day 12: May 12th, 2020
+
+**Today's Progress**: Got some good work done on the portfolio site.
+
+**Thoughts**: Got all the backbone components done that I wanted for the portfolio site so I am quite pleased
+
+**Link to Work**: https://github.com/melissa-24/portfolio/commit/ea0550ee31aa28321e3f941f0ca1694ba31497ca
